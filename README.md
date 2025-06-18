@@ -556,6 +556,16 @@ Here are some powerful API combinations that work great together:
 
 ---
 
+### 🎬 Movie Recommendation APIs
+
+- **API Name:** AI Movie Recommender by Thiya  
+  **Description:** Recommends personalized movies using AI-driven matchmaking based on user preferences  
+  **Link:** [https://github.com/thiraviya2024/movie](https://github.com/thiraviya2024/movie)  
+  **Auth:** No  
+  **Category:** Entertainment
+
+---
+
 ## 🚀 Quick Start Tips
 
 1. **Start with Easy APIs**: Begin with APIs marked as "Easy" to get familiar with API integration
